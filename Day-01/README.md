@@ -13,6 +13,7 @@ Learn Terraform fundamentals and provision a resource group in Azure.
 - terraform validate
 - terraform plan
 - terraform apply
+- terraform destory
 
 ## Cleanup
 Run terraform destroy after verifying that the lab owns
